@@ -1,6 +1,6 @@
 ### Hi there, I'm [Alper] 👋
 
-I'm a first year Computer Science student, passionate about building apps that are solutions for modern problems.
+ I'm a first year Computer Science student, passionate about building apps that are solutions for modern problems.
 
 - 🌱 I’m currently learning **Java**
 - 💼 I’m open to work, check out my [portfolio](https://github.com/alper04?tab=repositories) to know more about me
@@ -11,7 +11,6 @@ I'm a first year Computer Science student, passionate about building apps that a
 <img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/C.svg" />
 <img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/c++.svg" />
 
-<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/java.svg" />
 <img align="left" alt="c#" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/csharp.svg" />
 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/python.svg" />
