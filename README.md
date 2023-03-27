@@ -25,7 +25,8 @@
 
 ### Github Stats
 
-![Alper04's GitHub stats](https://github-readme-stats.vercel.app/api?username=alper04&count_private=true&show_icons=true&theme=dark)
+![Alper04's GitHub stats](https://github-readme-stats.vercel.app/api?username=alper04&count_private=true&show_icons=true&theme=light) <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+
 
 ### Reach out to me!
 
