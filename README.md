@@ -1,23 +1,28 @@
-### Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+### Hi there, I'm [Alper] 👋
 
-I'm a Full Stack Developer, passionate about building awesome apps with modern technologies.
+I'm a first year Computer Science student, passionate about building apps that are solutions for modern problems.
 
-- 🌱 I’m currently learning **React Native** and **GraphQL**
-- 💼 I’m open to work, check out my [portfolio](https://yourwebsite.com) to know more about me
+- 🌱 I’m currently learning **Java**
+- 💼 I’m open to work, check out my [portfolio](https://github.com/alper04?tab=repositories) to know more about me
 - 💬 Ask me about anything, I'm happy to help
 
 ### Tech Stack
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/bradtraversy/bradtraversy/master/assets/javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/bradtraversy/bradtraversy/master/assets/react.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/bradtraversy/bradtraversy/master/assets/node.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/bradtraversy/bradtraversy/master/assets/mongodb.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/bradtraversy/bradtraversy/master/assets/git.svg" />
+<img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/C.svg" />
+<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/c++.svg" />
+
+<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/java.svg" />
+<img align="left" alt="c#" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/csharp.svg" />
+
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/python.svg" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/git.svg" />
+<img align="left" alt="Unity3D" width="76px" src="https://raw.githubusercontent.com/alper04/alper04/main/icons/unity.svg" />
+<br />
+<br />
 
 ### Projects
 
-- 🎓 [Your Awesome School](https://github.com/yourgithubusername/yourawesomeschool): A Learning Management System built with React and Node.js
-- 📸 [SnapIt](https://github.com/yourgithubusername/snapit): A photo sharing app built with React Native and Firebase
+- 📸 [Youtube Music Widget](https://github.com/alper04/youtube-music-widget): An app that lets you add audio from a YouTube video to any other video.
 
 ### Github Stats
 
@@ -25,5 +30,4 @@ I'm a Full Stack Developer, passionate about building awesome apps with modern t
 
 ### Reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
-[![Website Badge](https://img.shields.io/badge/-yourwebsite.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/alper-baykara-7727b3237/)
