@@ -25,7 +25,7 @@
 
 ### Github Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&count_private=true&show_icons=true&theme=dark)
+![Alper04's GitHub stats](https://github-readme-stats.vercel.app/api?username=alper04&count_private=true&show_icons=true&theme=dark)
 
 ### Reach out to me!
 
