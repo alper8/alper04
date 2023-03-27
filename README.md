@@ -1,4 +1,4 @@
-### Hi there, I'm [Alper] 👋
+### Hi there, I'm Alper 👋
 
  I'm a first year Computer Science student, passionate about building apps that are solutions for modern problems.
 
