@@ -2,7 +2,7 @@
 
  I'm a first year Computer Science student, passionate about building apps that are solutions for modern problems.
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin**
 - 💼 I’m open to work, check out my [portfolio](https://github.com/alper04?tab=repositories) to know more about me
 - 💬 Ask me about anything, I'm happy to help
 
@@ -23,9 +23,11 @@
 
 - 📸 [Youtube Music Widget](https://github.com/alper04/youtube-music-widget): An app that lets you add audio from a YouTube video to any other video.
 
-### Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alper04&layout=compact&theme=buefy&hide_border=true)](https://github.com/alper04/github-readme-stats)
 
-![Alper04's GitHub stats](https://github-readme-stats.vercel.app/api?username=alper04&count_private=true&show_icons=true&theme=light) <a href="https://github.com/alper04/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper04&layout=compact&theme=buefy&hide_border=true" /></a>
+
+
+
 
 
 ### Reach out to me!
