@@ -3,7 +3,7 @@
  I'm a second year Computer Science student, passionate about building apps that are solutions for modern problems.
 
 - 🌱 I’m currently learning **Kotlin**
-- 💼 I’m open to work, check out my [portfolio](https://github.com/alper04?tab=repositories) to know more about me
+- 💼 I’m open to work, check out my [portfolio](https://github.com/alper04?tab=repositories) to know more about my projects.
 - 💬 Ask me about anything, I'm happy to help
 
 ### Tech Stack
